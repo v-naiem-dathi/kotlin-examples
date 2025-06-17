@@ -1,4 +1,4 @@
-package org.kotlinlang.play.introduction.controlflow.`when`
+package org.kotlinlang.play.controlflow.`when`
 
 fun main() {
     println(whenAssign("Hello"))

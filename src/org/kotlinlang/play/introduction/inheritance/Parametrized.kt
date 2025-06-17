@@ -1,4 +1,4 @@
-package org.kotlinlang.play.introduction.inheritance.example2
+package org.kotlinlang.play.introduction.inheritance
 
 open class Tiger(val origin: String) {
     fun sayHello() {

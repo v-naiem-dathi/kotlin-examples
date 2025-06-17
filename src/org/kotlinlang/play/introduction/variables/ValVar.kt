@@ -1,4 +1,4 @@
-package org.kotlinlang.play.introduction.variables.example1
+package org.kotlinlang.play.introduction.variables
 
 fun main() {
     var a: String = "initial"

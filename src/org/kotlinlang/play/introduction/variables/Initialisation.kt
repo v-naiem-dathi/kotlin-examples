@@ -1,4 +1,4 @@
-package org.kotlinlang.play.introduction.variables.example3
+package org.kotlinlang.play.introduction.variables
 
 fun main() {
     val d: Int  // 1

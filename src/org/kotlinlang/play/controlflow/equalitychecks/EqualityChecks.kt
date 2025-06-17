@@ -1,4 +1,4 @@
-package org.kotlinlang.play.introduction.controlflow.equalitychecks
+package org.kotlinlang.play.controlflow.equalitychecks
 
 val authors = setOf("Shakespeare", "Hemingway", "Twain")
 val writers = setOf("Twain", "Shakespeare", "Hemingway")

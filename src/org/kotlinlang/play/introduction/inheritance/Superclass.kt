@@ -1,4 +1,4 @@
-package org.kotlinlang.play.introduction.inheritance.example3
+package org.kotlinlang.play.introduction.inheritance
 
 open class Lion(val name: String, val origin: String) {
     fun sayHello() {

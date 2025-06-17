@@ -1,4 +1,4 @@
-package org.kotlinlang.play.introduction.controlflow.loops
+package org.kotlinlang.play.controlflow.loops
 
 fun eatACake() = println("Eat a Cake")
 fun bakeACake() = println("Bake a Cake")

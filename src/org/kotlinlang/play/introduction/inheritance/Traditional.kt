@@ -1,4 +1,4 @@
-package org.kotlinlang.play.introduction.inheritance.example1
+package org.kotlinlang.play.introduction.inheritance
 
 open class Dog {                // 1
     open fun sayHello() {       // 2

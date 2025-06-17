@@ -1,4 +1,4 @@
-package org.kotlinlang.play.introduction.controlflow.loops
+package org.kotlinlang.play.controlflow.loops
 
 val cakes = listOf("carrot", "cheese", "chocolate")
 

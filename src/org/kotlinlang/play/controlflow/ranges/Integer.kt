@@ -1,4 +1,4 @@
-package org.kotlinlang.play.introduction.controlflow.ranges
+package org.kotlinlang.play.controlflow.ranges
 
 fun main(args: Array<String>) {
     for(i in 0..3) {             // 1
